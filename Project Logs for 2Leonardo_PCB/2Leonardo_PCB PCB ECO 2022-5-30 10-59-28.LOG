@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CMP Pin=IC3-5
+Removed Pin From Net: NetName=+3V3 Pin=IC3-6
+Removed Pin From Net: NetName=GATE_CMD Pin=IC3-7
+Removed Member From Class: ClassName=2Leonardo_PCB Member=IC4
+Change Component Comment : Designator=IC4 Old Comment=* New Comment=LMV358IDGKR
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC3
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC3
+Added Pin To Net: NetName=CMP Pin=IC3-5
+Added Pin To Net: NetName=+3V3 Pin=IC3-6
+Added Pin To Net: NetName=GATE_CMD Pin=IC3-7
+Change Net Name : Old Net Name=NetIC2_1 New Net Name=NetIC3_1

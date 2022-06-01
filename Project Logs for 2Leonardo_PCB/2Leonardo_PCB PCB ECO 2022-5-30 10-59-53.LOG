@@ -1,0 +1,8 @@
+Added Component: Designator=IC3(MSOP08)
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=CMP Pin=IC3-5
+Added Pin To Net: NetName=+3V3 Pin=IC3-6
+Added Pin To Net: NetName=GATE_CMD Pin=IC3-7
+Added Pin To Net: NetName=+5V Pin=IC3-8
+Added Member To Class: ClassName=2Leonardo_PCB Member=Component IC3 LMV358MMX_1
+Added Member To Class: ClassName=2Leonardo_PCB Member=Component IC3 LMV358IDGKR

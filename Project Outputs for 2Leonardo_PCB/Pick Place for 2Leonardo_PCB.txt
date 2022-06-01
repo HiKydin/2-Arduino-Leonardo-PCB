@@ -1,0 +1,68 @@
+Altium Designer Pick and Place Locations
+C:\Library\Project\Doing\2-Arduino-Leonardo-PCB\Project Outputs for 2Leonardo_PCB\Pick Place for 2Leonardo_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/06/22
+Time:       16:00
+Revision:   be78a21bb1b8673d8149f9898ec9adb734ace84c
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description 
+IC2        LMV358IDGKR          TopLayer MSOP08              631.889       1269.685      0        ""          
+Z2         CG0603MLC-05E        TopLayer CT/CN0603           358.268       1551.181      90       ""          
+Z1         CG0603MLC-05E        TopLayer CT/CN0603           358.268       1282.480      90       ""          
+Y1         "16MHz KX-7"         TopLayer CRYSTAL-3.2-2.5     1700.787      1527.554      90       ""          
+U3         LP2985-33DBVR        TopLayer SOT23-DBV           958.663       437.007       180      ""          
+U2         ATMEGA32U4-XUMU      TopLayer QFN44ML7X7          1582.677      976.378       180      ""          
+U1         ATMEGA32U4-XUAU      TopLayer TQFP44-PAD          1586.614      980.320       180      ""          
+TX1        Yellow               TopLayer CHIPLED_0805        120.078       904.200       90       ""          
+T1         FDN340P              TopLayer SOT-23              617.511       1427.795      180      ""          
+RX1        Yellow               TopLayer CHIPLED_0805        120.078       1078.740      90       ""          
+RESET1     TS42                 TopLayer TS42                228.345       2027.559      180      ""          
+R13        Res1                 TopLayer R0603-ROUND         829.307       1328.053      180      Resistor    
+R12        Res1                 TopLayer R0603-ROUND         828.307       1419.916      0        Resistor    
+R11        Res1                 TopLayer R0603-ROUND         290.338       562.992       0        Resistor    
+R10        Res1                 TopLayer R0603-ROUND         287.402       1082.677      0        Resistor    
+R9         Res1                 TopLayer R0603-ROUND         290.338       909.449       0        Resistor    
+R8         Res1                 TopLayer R0603-ROUND         290.338       727.034       0        Resistor    
+R7         Res1                 TopLayer R0603-ROUND         358.268       1374.047      0        Resistor    
+R6         Res1                 TopLayer R0603-ROUND         358.268       1463.614      0        Resistor    
+R5         Res1                 TopLayer R0603-ROUND         2177.165      940.945       180      Resistor    
+R4         Res1                 TopLayer R0603-ROUND         2179.669      657.055       0        Resistor    
+R3         Res1                 TopLayer R0603-ROUND         1696.850      1330.709      180      Resistor    
+R2         Res1                 TopLayer R0603-ROUND         1696.850      1405.543      0        Resistor    
+R1         Res1                 TopLayer R0603-ROUND         1893.701      1373.583      90       Resistor    
+P1         *                    TopLayer POWERSUPPLY_DC-21MM 299.213       204.799       90       ""          
+ORIGIN1    *                    TopLayer FIDUCIA-MOUNT       2397.638      590.551       90       ""          
+ON1        Green                TopLayer CHIPLED_0805        122.048       566.929       90       ""          
+L3         Yellow               TopLayer CHIPLED_0805        120.078       729.659       90       ""          
+L2         MH2029-300Y          TopLayer 0805                358.768       1192.914      90       ""          
+L1         MH2029-300Y          TopLayer 0805                2185.102      750.032       90       ""          
+JP1        10x1F-H8.5           TopLayer 1X10                1430.315      2062.992      180      ""          
+J4         6x1F-H8.5            TopLayer 1X06                2041.339      86.614        0        ""          
+J3         8x1F-H8.5            TopLayer 1X08                1320.866      86.614        0        ""          
+J2         8x1F-H8.5            TopLayer 1X08                2342.126      2062.992      180      ""          
+J1         "USB MICRO"          TopLayer CON2_USB_MICRO_B_AT 150.362       1578.740      270      ""          
+ICSP1      ICSP                 TopLayer 2X03                2524.803      1135.433      270      ""          
+IC1        NCP1117ST50T3G       TopLayer SOT223              704.724       732.288       0        ""          
+F1         "MF-MSMF050-2 500mA" TopLayer L1812               413.386       1704.724      180      ""          
+D2         M7                   TopLayer SMB                 637.795       381.891       270      ""          
+D1         CD1206-S01575        TopLayer MINIMELF            1992.126      1409.449      270      ""          
+C15        1u                   TopLayer C0603-ROUND         956.260       590.551       180      ""          
+C14        100n                 TopLayer C0603-ROUND         829.307       1234.252      180      ""          
+C13        100n                 TopLayer C0603-ROUND         828.307       1509.842      0        ""          
+C12        1u                   TopLayer C0603-ROUND         961.063       299.213       0        ""          
+C11        10u                  TopLayer SMC_B               956.693       740.159       270      ""          
+C10        100n                 TopLayer C0603-ROUND         642.165       1602.362      180      ""          
+C9         10u                  TopLayer SMC_B               685.038       1720.472      0        ""          
+C8         10u                  TopLayer SMC_B               803.150       370.078       90       ""          
+C7         1uF                  TopLayer C0603-ROUND         2173.228      1019.685      180      ""          
+C6         100n                 TopLayer C0603-ROUND         2179.669      562.992       0        ""          
+C5         1uF                  TopLayer C0603-ROUND         2177.165      842.520       0        ""          
+C4         22p                  TopLayer C0603-ROUND         1515.748      1424.764      270      ""          
+C3         22p                  TopLayer C0603-ROUND         1811.024      1374.016      90       ""          
+C2         100n                 TopLayer C0603-ROUND         2090.551      1370.079      270      ""          
+C1         100n                 TopLayer C0603-ROUND         2177.165      1370.079      270      ""          

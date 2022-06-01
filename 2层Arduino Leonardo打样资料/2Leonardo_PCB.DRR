@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 2Leonardo_PCB.PcbDoc   2022/6/1  15:56:50
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 2Leonardo_PCB-RoundHoles.TXT
+ASCII SlotHoles File : 2Leonardo_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             71        PTH        15.13inch (384.20mm)
+T2      20mil (0.5mm)                                             Round             6         PTH        2.69inch (68.39mm)
+T3      28mil (0.7mm)                                             Round             8         PTH        0.45inch (11.44mm)
+T4      33mil (0.85mm)                                            Round             32        PTH        5.95inch (151.15mm)
+T5      37mil (0.95mm)                                            Round             6         PTH        0.50inch (12.70mm)
+T6      51mil (1.3mm)                                             Slot              3         PTH        1.09inch (27.64mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              126
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Library\Project\Doing\2-Arduino-Leonardo-PCB\2Leonardo_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=2leonardo_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=2leonardo_pcb-slotholes.txt|DrillLayers=gtl,gbl
